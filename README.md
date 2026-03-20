@@ -13,24 +13,43 @@ Manuscript title:
 
 .
 ├── README.md
+
 ├── CODEBOOK.md
+
 ├── requirements.txt
+
 ├── environment_R.txt
+
 ├── data/
+
 │   ├── asr_dataset.csv
+
 │   ├── lmem_dataset.csv
+
 │   ├── train_test_split_ids.csv
+
 │   └── corpus_materials/
+
 │       ├── segmentation_guidelines.txt
+
 │       └── metadata_template.csv
+
 ├── scripts/
+
 │   ├── run_lmem_analysis.R
+
 │   └── run_asr_classification.py
+
 ├── outputs/
+
 │   ├── lmem_results.csv
+
 │   ├── classification_report.txt
+
 │   ├── confusion_matrices.csv
+
 │   └── feature_importance.csv
+
 └── ACCESS_RULES.md
 
 ## Files
