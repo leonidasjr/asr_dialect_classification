@@ -1,7 +1,5 @@
 # asr_dialect_classification
 
-# 1) README.md
-
 # Reproducibility Package – PB–SP Prosodic-Acoustic Dialect Classification
 
 This repository contains the minimal materials required to reproduce the inferential and predictive analyses reported in the manuscript:
